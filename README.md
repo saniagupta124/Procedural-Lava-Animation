@@ -1,4 +1,4 @@
-![demo](https://github.com/user-attachments/assets/b441aa60-9e66-48aa-853f-ba35e8723f30)# Procedural Lava Lamp Animation
+# Procedural Lava Lamp Animation
 Python-scripted procedural animation in Blender featuring physics-based lava lamp simulation with custom shader materials.
 
 ## Overview
@@ -24,4 +24,4 @@ Generates animated lava lamp visuals using Blender's Python API, combining physi
 - Materials: Procedural glass + emission shaders
 
 ## Visual Demo
-![Demo](/Users/24SaniaG/Desktop/saniagupta124.github.io/files/demo.gif)
+<img src="https://github.com/user-attachments/assets/b441aa60-9e66-48aa-853f-ba35e8723f30" height="300" alt="demo">
